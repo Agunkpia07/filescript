@@ -1,0 +1,13 @@
+Penginstallan :
+
+$ apt update && apt upgrade
+$ pkg install python git
+$ git clone https://github.com/Sxp-ID/spam-whatsapp
+$ cd spam-whatsapp
+$ pip install -r requirements.txt
+$ bash install.sh
+
+Thanks for watching..
+Jangan lupa untuk subrek channel yt admin FREE TUTORIAL
+dan aktifkan notifikasi loncengnya biar tau kalo
+admin upload video baru !
